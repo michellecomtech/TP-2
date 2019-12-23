@@ -1,0 +1,18 @@
+  
+Date			Involved team member	Task					Other
+------------------------------------------------------------------------------------------------- 
+12/8/19			Abdulrahman				create GitHub repo
+12/9/19			Abdulrahman				create class "Class"
+12/9/19     Abdullah          create class "Professor"
+12/9/19			Abdulrahman				create class "Student" + Edit class "Class"
+12/9/19     Abdullah          create class "Problem"
+12/9/19			Abdulrahman				create class "Criteria"
+12/10/19    Abdullah          create class "Quiz"
+12/11/19    Abdullah          create class "QuizResult"
+12/11/19    Sunny & Michelle  edit class "Student", "Criteria", "Quiz"
+12/12/19    Sunny & Michelle  create class "StudentQuizReport", StudentQuizReportController", "UI", "CreatePDF"
+12/13/19    Sunny & Michelle  edit class "StudentQuizReport", "CreatePDF"
+12/13/19    Sunny & Michelle  add class "ScoreAnalysis" 
+12/15/19    Sunny & Michelle  edit class "StudentQuizReport", and delete "CreatePDF", StudentQuizReportController"
+12/16/19    Sunny & Michelle  edit class "Student", "Criteria", "Quiz", and "StudentQuizReport"
+12/18/19    Sunny & Michelle  edit class "ScoreAnalysis"
